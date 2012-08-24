@@ -106,7 +106,7 @@ namespace MiniClient
             // cmdLogin
             // 
             this.cmdLogin.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.cmdLogin.Location = new System.Drawing.Point(139, 213);
+            this.cmdLogin.Location = new System.Drawing.Point(126, 213);
             this.cmdLogin.Name = "cmdLogin";
             this.cmdLogin.Size = new System.Drawing.Size(88, 24);
             this.cmdLogin.TabIndex = 6;
