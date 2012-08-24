@@ -1,3 +1,5 @@
+Settings.xml
+
 #################
 ## Eclipse
 #################
@@ -42,7 +44,7 @@ local.properties
 *.sln.docstates
 
 # Build results
-[Dd]ebug/
+#[Dd]ebug/
 [Rr]elease/
 *_i.c
 *_p.c
