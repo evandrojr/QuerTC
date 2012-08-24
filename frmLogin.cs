@@ -102,7 +102,6 @@ namespace MiniClient
             this.txtJid.Name = "txtJid";
             this.txtJid.Size = new System.Drawing.Size(168, 20);
             this.txtJid.TabIndex = 0;
-            this.txtJid.Text = "evandro.leite@sim.serpro.gov.br";
             // 
             // cmdLogin
             // 
@@ -139,7 +138,6 @@ namespace MiniClient
             this.txtPassword.PasswordChar = '*';
             this.txtPassword.Size = new System.Drawing.Size(168, 20);
             this.txtPassword.TabIndex = 1;
-            this.txtPassword.Text = "09polk";
             // 
             // label3
             // 
